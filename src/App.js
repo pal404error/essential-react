@@ -16,7 +16,7 @@ function App() {
         />
         <p>
           <h2>Essential Pack </h2>
-           Includes
+          Includes
           <ul>
             <li>
               <a
@@ -51,17 +51,16 @@ function App() {
               </a>
             </li>
           </ul>
-          <GoMarkGithub/>  <a
+          <GoMarkGithub />{" "}
+          <a
             className="App-link"
             href="https://github.com/pal404error"
             target="_blank"
             rel="noopener noreferrer"
           >
-           
             pal404error
           </a>
         </p>
-       
       </header>
     </div>
   );
