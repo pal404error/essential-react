@@ -1,5 +1,5 @@
 ## Essential Pack
-> DONT CREATE-REACT-APP, JUST CLONE IT 
+> DONT CREATE-REACT-APP, JUST CLONE IT <br/>
 ITS FASTer
 
 Includes
